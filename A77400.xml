@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe and true relation of the seige [sic] and surrendering of Kings Lyn to the Earle of Manchester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77400</idno>
+            <idno type="STC">Wing B4536</idno>
+            <idno type="STC">Thomason E67_28</idno>
+            <idno type="STC">ESTC R1949</idno>
+            <idno type="EEBO-CITATION">99860683</idno>
+            <idno type="PROQUEST">99860683</idno>
+            <idno type="VID">155414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155414)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E67[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe and true relation of the seige [sic] and surrendering of Kings Lyn to the Earle of Manchester.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Bishop, and R. White,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printers' names from colophon; place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept. 20 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>King's Lynn (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:155414:1"/>
+            <pb n="1" facs="tcp:155414:1" rendition="simple:additions"/>
+            <head>A briefe and true RELATION OF THE Seige and Surrendering of Kings <hi>Lyn</hi> To the Earle of <hi>MANCHESTER.</hi>
+            </head>
+            <p>KIngs <hi>Lyn</hi> is ſeated upon an arme of the ſea which waſhes one ſide of its, it hath ſurrounding the other ſide, one ſmall part excepted, a large wa<g ref="char:EOLhyphen"/>ter fed from the aforeſaid arme; its of an indifferent height, the parts about being commanded by it, being rich Marſhes, through which paſſeth at the tides the ſalt water: It had been for a good while cunningly Fortifying it ſelfe under pretence of Neutrality, and when at any time the Parliament upon their miſcariages queſtioned them, or required any thing to be done by them, they ſtill refuſed, and by degrees appeared more and more for the other party againſt the Parliament: The Earle of <hi>Mancheſter</hi> being made Major Generall of the Aſſociated Counties, thought it moſt neceſſary to ſecure that back-doore, which being ſo convenient an inlet to the enemy, might divert him when he ſhould advance with his powers towards the North, for the freeing of Lincolneſhire and other parts from the miſeries they ſuffer by the enemy: it was much diſputed whether it were not better to pro<g ref="char:EOLhyphen"/>ceed by blocking up, rather then to take it by force; the Towne being of that ſtrength that no ordinary power could take it, had they that which was fit for defence, but it was at laſt reſolved to attempt it by force, and for that purpoſe it was thought good to ſeize the Towne of old <hi>Lyn,</hi> which is in Marſhland, which by a party of my Lords Forces was accordingly done, and Ordnance planted, which kept the Towne in continuall Alarmes, and did ſo terrifie the people with their ſhot and Granadoes, that they durſt hardly abide in any of their houſes that were towards that ſide, the ſhot flying daily into the houſes
+<pb n="2" facs="tcp:155414:2"/>in the Tueſday market place, and other places, the Towne was approched in ſeverall other places, two of which were on the ſide next to the mote, the one by the Cauſey that leades to the South, the other to the Eaſt gate: The enemy at the firſt ſallied out with much courage, eſpecially from the Eaſt gate and at once fired two houſes in <hi>Gauwood,</hi> intending to have done ſo to the whole Towne, that our forces might not Quarter in there, but the party that ſallied out was well beaten, and the reſt of the towne preſerved, though the inhabitants were not worthy of ſuch a favour, who fled all away up on the ap<g ref="char:EOLhyphen"/>proach of our Forces; all things being put in order we called in pioneers from all parts round, and fell to breaking ground, and by degrees bad brought our approaches within halfe Musket ſhot, yet were we little the neerer the gaining the towne thereby, onely the better inabled to batter their walls, gates and Forts; a little before the towne was yeilded we diſcovered a hill of firme ground that was neer to that end of the towne next the ſea, which we had be<g ref="char:EOLhyphen"/>gun to forme into a battery, which would have ſo annoyed them, that they would not have knowne where to have been ſecure, and by which a breach might have been made; but this alſo gave us no great hopes of entrance, they making up as faſt, as we ſhould have beaten downe, therefore we re<g ref="char:EOLhyphen"/>called in many Boats, with which we intended to attache it by water, and many cart loads of Ladders, which we intended for the land ſide: during this hot ſervice we loſt about four men, one a Canoneer, who was ſhot through the ſide with a drake bullet, he was not dead when the Towne was taken, but it was no likelyhood but he would, he was a good Canoneer, and a man right to his party, we had one ſhot with a buller through the ſhoulder, neer the necke: and one Lieutenant had his arme ſhot off, on which he died ſuddenly after, it was with a Cannon ſhot through a Port-hole, ſo skilfull were they, that they would ſhoot three times together into one Port-hole: In this violent playing with Cannon and ſmall ſhot we beleeve above eighty loſt their lives on both ſides, which is the rather added, becauſe people en<g ref="char:EOLhyphen"/>quire uſually how many were killed, as if they loved to heare of killing of men; and alſo to rectifie the Judgements of men, who will be apt to credit a ſtory of three, four or five thouſand men ſlaine at ſuch a Siege, and ſuch a Siege; its true, ſtorming and entring breaches uſually waſt men, but we were not come to this; when it was reſolved and declared on <hi>Saturday</hi> morning to ſtorme, we hapily received a letter the Friday morning, importing a vil<g ref="char:EOLhyphen"/>lingneſſe in the Towne to capitulate, which they ſaid, and its like truly, they did not ſend as fearing the taking the Town, but to avoid the effuſion of
+<pb n="3" facs="tcp:155414:2"/>bloud: My Lord having before adviſed them to ſend their women and chil<g ref="char:EOLhyphen"/>dren out of the Towne; which he did for the ſame reaſon: This Treaty was accepted, and eight perſons for the Towne, and eight for my Lord appoin<g ref="char:EOLhyphen"/>ed to Treat at <hi>Ganwood</hi> at the Quarter of that valiant and pious Scot Serjeant Major <hi>Hoames,</hi> and to begin at five of the clocke on Friday night, which be<g ref="char:EOLhyphen"/>ing done, order was given upon paine of death, that none ſhould ſhoot a ſhot, or worke upon their Works during the time of the Treaty; which was in<g ref="char:EOLhyphen"/>violably kept on my Lords part.</p>
+            <p>The Commiſſioners for my Lord <hi>Mancheſter,</hi> were Sir <hi>John Pagrave,</hi> Colonell <hi>Ruſſell,</hi> Colonell <hi>Walton,</hi> Maſter <hi>Philip Calthrop,</hi> Maſter <hi>John Pic<g ref="char:EOLhyphen"/>kering,</hi> Maſter <hi>Gregory Goſſet,</hi> Maſter <hi>John Spilman,</hi> and Maſter <hi>William Good.</hi>
+            </p>
+            <p>Thoſe for the Towne, were Sir <hi>Hammon le Strange,</hi> Sir <hi>Richard Hovill,</hi> Maſter <hi>Clinch,</hi> Maſter <hi>Dearham,</hi> Maſter <hi>Pallet</hi> Recorder, Maſter <hi>Hudſon,</hi> he Mayor elect, Maſter <hi>Leeke,</hi> and Maſter <hi>kerbie;</hi> when they were come they had no power to treat, nor to determine, which being demanded the reaſon of, they anſwered, that they intended onely to draw things to a head, and to have them ratified by the Mayor at a Common-Hall; as for a Commiſſion from his Majeſtie, inabling any to be Governour, or to fortifie the Towne, there was none produced, it was beleeved one of the Commiſſioners had one, but he did not ſhew it; there was therefore a diſpatch made to the Mayor, who gave it them.</p>
+            <p>The Demands of theſe Gentlemen was to this effect; That in regard the Towne of Kings <hi>Lyn</hi> had a government by Charter, from the Kings of Eng<g ref="char:EOLhyphen"/>land, and was not an offender in any thing, they therefore deſired to be left in their former ſtate, onely fortifications demoliſhed, and to have free egreſſe and regreſſe as formerly: They deſired alſo, that all houſes, lands and eſtates, be left to pay taxes by diſtreſſe, onely where it was to be had, and perſons of men to be free, that the ſhips, goods, and perſonal leſtates taken to be reſto<g ref="char:EOLhyphen"/>red, or ſatisfaction that all ſtrangers come into the towne, be ſet at liberty, that the aſperſion of Delinquencie or Malignancie be aboliſhed, and that the Earle of <hi>Mancheſter</hi> grant Protections to them that deſire them. My Lord <hi>Mancheſters</hi> Commiſſioners replied, That they had offended, for they had not paid in the ſecond part of the 400000. pounds, they have made no aſ<g ref="char:EOLhyphen"/>ſeſſement of the fifth, and twentieth part, not ſent in horſe; and on the con<g ref="char:EOLhyphen"/>trary, refuſed to ſend up Delinquents ſent for by the Parliament, pretended to hold the towne for King and Parliament, and yet refuſe to deliver the towne, or give enterance to the Earle, who demands it for King and Parlia<g ref="char:EOLhyphen"/>ment;
+<pb n="4" facs="tcp:155414:3"/>and have received the diſ-affected into the towne, and diſ-armed the well affected; impriſoned Members of the Houſe of Commons, and ſome of the Committee, they have imployed armes incruſted with them for the Aſſociation, againſt them; money gathered for theſe vice of the Parliament, they have made uſe of to defend the towne againſt the Parliament and Aſſo<g ref="char:EOLhyphen"/>ciation, and many of the goods of the well-affected they have taken and im<g ref="char:EOLhyphen"/>ployed for the defence of the towne; therefore they appeared to be great of<g ref="char:EOLhyphen"/>fenders: Yet to prevent effuſion of bloud, if they will deliver the towne by Saturday nine in the morning, they ſhall have priviledge and freedome; as for freedome from Ordinances of Parliament, they muſt expect no ſuch thing; as for ſatisfaction, their defection hath beene the cauſe of allo their ſuf<g ref="char:EOLhyphen"/>ferings, and ſo cannot be ſatisfied, but the contrary is expected &amp; required, not onely for the former, but alſo for the time ſpent in reducing to obedience the town, &amp; a moneths pay to the ſouldiers; for their perſons &amp; eſtates they ſhall not be moleſted for any thing done ſince the Earls coming; but for Horſe and Arms that were in the town they muſt be delivered to the Earl at his entrance.</p>
+            <p>After much debate upon the Particulars, which held from ſeven at night untill eight the next night, a dinner time onely excepted, it was agreed in ſubſtance as followes: </p>
+            <p>
+               <hi>Firſt, That Kings</hi> Lyn, <hi>with the Ordnance, Armes and Ammunition in the Towne, be delivered to the Earle, and the Earle to enter the Town.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That the Gentlemen ſtrangers in the Towne ſhould have liberty to depart with every man a Horſe, Sword, and Piſtols.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, That the Towneſmen ſhull enioy all undoubted Rites and Priviledges appertaining to them, with free trading to their advantage, ſo far as may conſiſt with Law.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, That all Priſoners on both ſides be reſtored and ſot at liberty.</hi>
+            </p>
+            <p>
+               <hi>Fiftly, That the Earles Commiſſioners ſhall ſignifie to the Parliament, and to the Earle of</hi> Warwick, <hi>the deſire of the towne of</hi> Lyn, <hi>concerning the ſhips taken by the Parliaments ſhips, and to that they can give no other anſwer.</hi>
+            </p>
+            <p>
+               <hi>Sixtly, That neither the perſon nor eſtates of any Inhabitants, Gentry, or Strangers, now reſiding in</hi> Lyn, <hi>ſhall be hereafter nobleſted for any thing paſt, or done by them, ſince the Earle of</hi> Mancheſters <hi>comming into theſe parts.</hi>
+            </p>
+            <p>
+               <hi>Seventhly, That for preventing of plundering, ten ſtillings a man heraiſed for all foot ſouldiers under the Earles Command, and a fort night pay for all Officers under the degree of a Captaine, and this is to be levied upon the Towne.</hi>
+            </p>
+            <p>
+               <hi>Eightly, That Sir</hi> Hammon le Strange, <hi>Sir</hi> Richard Hovill, <hi>Captaine</hi> Clinch, <hi>Maſter Recorder, Maſter</hi> Dearing, <hi>and Maſter</hi> William Leeke, <hi>be left as Hoſtages untill Condiitons be performed agreed upon.</hi>
+            </p>
+            <pb n="5" facs="tcp:155414:3"/>
+            <p>That which is obſervable duting this Treaty, is, that the Towne, or rather the unrulie ſouldiers ſhot at our men, contrary to accord, and fell to work upon their workes, and as it is conceived, with intent to cut ditches at the ſpring-tides, to drowne our workes, which we diſcovering, made uſe of, to hold them up to our termes, otherwayes they were all priſoners, if we ſtood upon it. This agreement being carryed to the Mayor and Aldermen, &amp;c. there were ſome explainary exceptions, as that it was not expreſt in the pre<g ref="char:EOLhyphen"/>amble, that the Towne be delivered for King and Parliament; that ſome<g ref="char:EOLhyphen"/>what was not expreſt infavour or vindication of the Mayor, that any ſhould be exempt from bearing part of that raiſed to content the ſouldiers, or to that effect, which my Lord by a Letter, or ſhort Declaration ſatisfied them in, and then one of their Commiſſioners returned with the laſt and full reſo<g ref="char:EOLhyphen"/>lution, that the Gates ſhould be opened, and we enter: During this latter buſineſſe, we miſt uſting they would faulter, we drew all our horſe and foote into meadowes, which we put into ſuch a poſture as might be moſt terrible to the enemy, making a large front, when God knowes what deptha they ſtood, then beating the Drums, and founding the Trumpets, as if we had been pre<g ref="char:EOLhyphen"/>fently to march into the Towne: Col. <hi>Ruſſell,</hi> that noble and valiant Gen<g ref="char:EOLhyphen"/>tleman had the Van, and Col. <hi>Walton</hi> the Reete: Colonell <hi>Ruſſell</hi> marched on foot towards the Eaſt-gate, when he came within Muſquet ſhot, the Com<g ref="char:EOLhyphen"/>miſſioner that was imployed to make way came backe, and told the Colo<g ref="char:EOLhyphen"/>nell, that the ſeaſon of the night would not permit to open the great Gate, they muſt therefore be content to march one by one at the Wicket, if any ſhall queſtion our diſcretion in entring in at a Wicket, and at twelve a clock at night, let them know, that we did not know what alterations might be by morning, nor how the ruder part might take courage and deny us entrance; we thought it beſt the refore to take the preſent time, beſides out men were the next morning to have ſtormed it, otherway the ſpring ride would have ſpoiled us; but when the Wicket was open, and we going to enter, the Commiſſioner againe returned, and told us there was a rude multitude of a<g ref="char:EOLhyphen"/>bout forty or fifty, that ſwore none ſhould enter there, and if any did, they would be the death of them, which they might have made good to five hun<g ref="char:EOLhyphen"/>dred, if we had ſtood to it: they had there a parley of neere two houres, ſome ſaying Articles muſt be performed: others, that they would not condeſcend nor obey, nor ſhould the Mayor and Commiſſioners acts binde them, Cry<g ref="char:EOLhyphen"/>ing ſhoote, ſhoote, and one Canoneere they turned out, becauſe he would not give fire upon us, as himſelfe ſaid: at laſt one of them cryed, give fire, which being in the dead of the night, made ſome of the forward Countrey
+<pb n="6" facs="tcp:155414:4"/>men and others on horſe backe, who rid by the ſide of the foote that march<g ref="char:EOLhyphen"/>ed, to fall off their horſes, and ſome into the ditch, ſo terrible was the word, Give fire: but at laſt this multitude was pacified and departed, which to ſpeake truth was from heaven, for had they continued obſtinate, wee could not have gained the towne: they diſperſt, the Colonell entred, and his ſoul<g ref="char:EOLhyphen"/>diers, who marched to their quarters at the South-gate according to order; in our aſſage through the towne, not one man appeared, only the women, who for the generall cryed, God bleſſe us, whether for feare or love, you may gueſſe. Thus being poſſeſt of the Towne, and having drawne a party into the Tueſday market place both of horſe and foote, and ſet ſtrong watches at every place, the Mayor came to the Colonell, of whom we demanded why the Armes of the Towne, according to the agreement was not brought into the market place, he replyed, that the ſeaſon of the night would not per<g ref="char:EOLhyphen"/>mit, but in the morning it ſhould be done, which ſatisfied the Colonell, for we ſaw they vvere perfectly ſubdued; and their ſpirits as to oppoſition quite gone. If it ſhall be further enquired, why, or vvhat ſhould be the reaſon this towne of ſo great ſtrength ſhould yeeld to ſo ſmall a power; it is anſwred, firſt the inhabitants vvere ſuch as had not been asccuſtomed to vvar, and were much frighted by the Granadoes, though to ſpeake truth, there vvas ſome defect in them, ſo that they did little, only falling among a timerous people. Secondly, they had no ſouldiers, but inhabitants, and of them not many fighters; but chiefely for this reaſon, they knew my Lord was noble, made up of love and meekneſſe, that conditions vvould be performed, their trade and markets open, a garriſon vvould ſpend money among them, and if they held out, they ſhould it was like loſe many of their lives, and be blockt up by ſea and land, if not taken, and their eſtates at laſt become a prey to the con<g ref="char:EOLhyphen"/>querour: there is one other queſtion, or rather an exception to be anſwered, vvhich as vve underſtood in the Army, vvas that the Londoners tooke ex<g ref="char:EOLhyphen"/>ceptions that my Lord ſate downe before the Towne; For anſwer to this, though it be a ſad thing that accounts muſt be given to thoſe that underſtand not the affaires of War, nor vvhom it ſo much concerned as the aſſociated Counties, yet thus much may be ſaid, my Lord thought action vvould have pleaſed them, becauſe they complaine ſo for want of action, and beſides to reduce a towne to obedience that they traded vvith, and the holding out of it ſo much prejudice to them, ſhould rather have put them upon his encourage<g ref="char:EOLhyphen"/>ment, then finding fault: Beſides, he hopes ſhortly to be in Lincolnſhire, and to drive the enemy out thence, vvhich he could not have done, that towne not ſecured, and if God proſper his honour as vvell there, as in this late acti<g ref="char:EOLhyphen"/>on,
+<pb n="7" facs="tcp:155414:4"/>he ſhall cleare the Countries, make way for the Londoners increaſe of trade and accommodation vvith proviſions for the City, Lincolnſhire being one of their beſt magazines for the belly.</p>
+            <p>We thus poſſeſt of the Towne the next morning about nine of the clock his Lordſhip marched from his head quarter, with his life guard, a brave Troope commanded by that valiant Gentleman Captaine <hi>Rich,</hi> and divers Knights and Gentlemen being come into the Towne, be repaired to the Sermon, where one of his Chaplaines preached, to give God thankes for his happy and peaceable entry, the Miniſters both in fore and afternoone bond<g ref="char:EOLhyphen"/>ing their diſcourſes that way, and indeed God was ſeen exceedingly in the buſineſſe, and ſo much the more as the arme of fleſh was weak, they laboured alſo to poſſeſſe the people of a bleſſing to them, and to that purpoſe gave ma<g ref="char:EOLhyphen"/>ny cleer inſtances, too large to be here inſerted, whether the people thought ſo or not did not appear, but they will ſuddenly finde it ſo; my Lord hath his Quarter at Alderman <hi>Tolls</hi> a Member of the Houſe of Commons, who was ſo roughly dealt with, in the time of the Siege, that he was conſtrained to make an eſcape out at a window into the arme of the ſea, his houſe being guarded in all parts elſe by Musketiers; many others returned that had fled out of the Towne, who were hapily again poſſeſt of their dwellings, though with great diminution of their eſtates, which to repaire, it were good ſome courſe were taken, for there is nothing more reaſonable, then that thoſe that forſake all for the Cauſe, ſhould be ſatisfied in point of dammage; Colonell <hi>Waltor</hi> hath for the preſent the Government of the towne; thus we ſee how providence orders, he that was lately lockt up for three daies and three nights at <hi>Oxford</hi> in a poore chamber without food, is now Govern our of as great and ſtrong a towne as <hi>Oxford;</hi> in which ſervice he will doubtleſſe behave him<g ref="char:EOLhyphen"/>ſelfe ſo well that the towne ſhall not have cauſe to complaine, and will be able to ſay that at the delivery of his charge, which was ſaid by Maſter <hi>Aſh</hi> at the evening Sermon after the entring the towne, that he was confident notwith<g ref="char:EOLhyphen"/>ſtanding the entrance was in the dead of the night, yet a halfe penny worth of wrong had not been done to any in the towne. The firſt reſolution taken for the better and more orderly government of the Souldiers, and content of the people was to have every morning at eight a clocke a Sermon, which was to be performed by the Miniſters of the Towne, and my Lords Chaplaines, which will undoubtedly keepe a good Harmony betweene them: And thus briefely you have the moſt materiall paſſages paſt in the Service; the next thing to be done is the diſmiſſing the Gentlemen Strangers, ſeizing of Armes, and what by Articles was to be delivered, ſetling the Gar<g ref="char:EOLhyphen"/>riſon, that ſo the place being ſecured his Lordſhip may advance,</p>
+            <pb n="8" facs="tcp:155414:5"/>
+            <p>Take one obſervation more, the Towne of Lyn may be made as ſtrong a place as any in the world with a little charge, and ſo there is a retiring place, for the fearfull that have thoughts of departing the Kingdome; it were not amiſſe to call all that are gone thither; and let them pay exciſe there towards our war ra<g ref="char:EOLhyphen"/>ther then the wars of others.</p>
+            <p>Let all who apprehend the gaining this Towne a good piece of ſervice to the State, give the noble Earle of Mancheſter his due praiſe, and God the glory.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>This is Licenced, and Entered into the Hall Booke accor<g ref="char:EOLhyphen"/>ding to Order.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>G. Biſhop,</hi> and <hi>R. White.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
